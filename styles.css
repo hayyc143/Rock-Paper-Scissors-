@@ -8,15 +8,13 @@ body{
 }
 
 header{
-    display: flex; 
-    flex-direction: column;
+    text-align: center; 
     align-items: center;
     font-size: 20px;
 }
 
 main{
-    display: flex; 
-    flex-direction: column;
+    text-align: center;
 }
 
 main h2{
